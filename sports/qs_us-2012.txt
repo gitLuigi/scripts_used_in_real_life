@@ -1,0 +1,130 @@
+Massachusetts Institute of Technology
+Harvard University
+Yale University
+University of Chicago
+Princeton University
+California Institute of Technology
+Columbia University
+University of Pennsylvania
+Cornell University
+Stanford University
+Johns Hopkins University
+University of Michigan
+Duke University
+University of California, Berkeley
+Northwestern University
+University of California, Los Angeles
+University of Wisconsin-Madison
+Brown University
+New York University
+Carnegie Mellon University
+University of Illinois at Urbana-Champaign
+University of North Carolina, Chapel Hill
+University of Washington
+Boston University
+University of Texas at Austin
+University of California, San Diego
+Washington University in St. Louis
+Georgia Institute of Technology
+Purdue University
+University of Pittsburgh
+University of California, Davis
+Pennsylvania State University
+University of Minnesota
+Ohio State University
+Dartmouth College
+University of Maryland, College Park
+University of California, Santa Barbara
+Rice University
+Emory University
+University of Virginia
+University of Southern California
+University of Rochester
+University of California, Irvine
+University of Colorado at Boulder
+Case Western Reserve University
+Texas A&M University
+Vanderbilt University
+University of Florida
+Michigan State University
+University of Illinois, Chicago
+Tufts University
+Georgetown University
+University of Arizona
+University of Iowa
+Indiana University Bloomington
+University of Miami
+University of Notre Dame
+Yeshiva University
+University of Utah
+Rutgers - The State University of New Jersey, New Brunswick
+University of Hawaii at Moa 
+University of Massachusetts, Amherst
+North Carolina State University
+Rensselaer Polytechnic Institute
+Stony Brook University
+University of California, Riverside
+Tulane University
+University of California, Santa Cru
+University at Buffalo SUNY
+Wake Forest University
+Iowa State University
+Boston College
+Arizona State University
+Brandeis University
+Virginia Polytechnic Institute
+George Washington University
+Washington State University
+Colorado State University
+University of Connecticut
+University of Missouri, Columbia
+The University of Georgia
+University of Cincinnati
+University of New Mexico
+Drexel University
+Florida State University
+Illinois Institute of Technology
+Oregon State University
+University of Delaware
+University of Kansas
+University of Kentucky
+University of Tennessee
+City University of New York
+Northeastern University
+Rutgers - The State University of New Jersey, Newark
+Syracuse University
+University of Alabama
+University of Nebraska
+University of Oklahoma
+University of Vermont
+College of William & Mary
+Howard University
+Lehigh University
+Louisiana State University
+University of South Carolina
+University of South Florida
+Virginia Commonwealth University
+Loyola University Chicago
+Missouri University of Science and Technology
+Smith College
+Temple University
+University at Albany SUNY
+University of Houston
+University of Oregon
+American University
+Auburn University
+Baylor University
+Binghamton University SUNY
+Brigham Young University
+Clark University
+Clemson University
+Fordham University
+Georgia State University
+Marquette University
+Southern Methodist University
+Stevens Institute of Technology
+University of Arkansas
+University of Denver
+University of the Pacific
+University of Tulsa
+Worcester Polytechnic Institute
