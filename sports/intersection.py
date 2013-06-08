@@ -35,18 +35,6 @@ def main():
 
     """
 
-#===============================================================================
-# To do later: Remove number-of-files limitation
-#===============================================================================
-    """
-    template_dataset_variable_name = "dataset"
-    for i in range(NUM_DATA_FILES):
-        template_dataset_variable_name += str(i)
-        setattr(template_dataset_variable_name, "num"+str(i),[])
-        template_dataset_variable_name = "dataset"
-    """ 
-#===============================================================================
-
     dataset1 = []
     dataset2 = []
     
