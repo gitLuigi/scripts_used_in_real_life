@@ -4,7 +4,9 @@
  * If using Gmail for sending emails, temporarily turn on "Less secure apps".
  * https://www.google.com/settings/security/lesssecureapps
  *
- * To run, install npm and nodejs. Then, the emails in this script. Then,
+ * To run, install npm and nodejs.
+ * Then, edit the emails in this script.
+ * Then,
  *   `$ npm install nodemailer`
  *   `$ node secret_santa_matcher.js`
  */
@@ -32,6 +34,7 @@ var transporter = nodemailer.createTransport({
 var santas = shuffle(emails);
 var children = santas.slice();          // Make a copy.
 children.unshift( children.pop() );     // Move last child to 1st.
+
 
 // Main
 for (var i = 0; i < santas.length; i++) {
