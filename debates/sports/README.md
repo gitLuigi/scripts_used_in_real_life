@@ -1,8 +1,6 @@
 sports
 ======
 
-Vizualization stuff for various topics debated between friends
-
 ## Usage
 
     $ python3 intersection.py <dataset 1> <dataset 2>
