@@ -1,4 +1,10 @@
-debates
-=======
+# Scripts used in real life
 
-Vizualization stuff for various topics debated between friends
+## debates/
+Visualizations for topics that came up during random discussions.  
+(Python, R)
+
+## secret_santa_matcher.js
+A randomizer and emailer.  
+(Node.js)
+
